@@ -1,6 +1,6 @@
 # MyReads Project
 
-this is the finel V of project MyReads it i s a react trenning project to alaw you to use react and react component it is first created by Udacity .
+this is the final V of project MyReads, it is a react training project to allow you to use react and react component it is first created by Udacity .
 
 ## installing instructuer 
 
